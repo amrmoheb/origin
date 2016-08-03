@@ -6,6 +6,7 @@ public class clamp : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 	
+	
 
 
 	}
